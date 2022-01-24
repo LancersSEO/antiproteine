@@ -1,0 +1,4 @@
+matplotlib
+pyfiglet
+PyInquirer
+PTable
